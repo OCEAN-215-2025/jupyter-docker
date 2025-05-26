@@ -1,3 +1,7 @@
+# intersection of rttl-notebooks conda-packages.txt
+conda-tree
+requests
+jupyter-resource-usage
 # core numeric packages
 numpy
 scipy
@@ -11,6 +15,11 @@ scikit-learn
 scikit-image
 joblib
 networkx
+# secondary geographical data packages
+folium
+geopandas
+fiona
+ipyleaflet
 # secondary visualization packages
 altair
 bokeh
@@ -27,8 +36,8 @@ cmocean
 # otter-grader
 otter-grader
 # jupyter
-ipykernel
-ipympl
-jupyter-lsp
-jupyterlab
-notebook
+#ipykernel
+#ipympl
+#jupyter-lsp
+#jupyterlab
+#notebook
