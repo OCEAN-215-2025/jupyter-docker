@@ -30,6 +30,7 @@ hdf5
 h5py
 netcdf4
 openpyxl
+gdown
 # ocean specific
 cartopy
 cmocean
