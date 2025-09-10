@@ -4,6 +4,10 @@ nbgitpuller
 numpy<2
 pipdeptree
 requests-html
+# web download APIs
+rda-apps-clients
+pyncei
+pycmap
 # fixing dependency conflicts
 ipywidgets>=8.1.5,<9.0.0
 certipy==0.2.2
@@ -23,4 +27,3 @@ jinja2==3.1.6
 nbdime==4.0.2
 protobuf==5.29.5
 setuptools==78.1.1
- 

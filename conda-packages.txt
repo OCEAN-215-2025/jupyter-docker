@@ -30,7 +30,16 @@ hdf5
 h5py
 netcdf4
 openpyxl
+# web download APIs
+html5lib
 gdown
+earthaccess
+sciencebasepy
+ndbc-api
+ooipy
+cdsapi
+argopy
+owslib
 # ocean specific
 cartopy
 cmocean
